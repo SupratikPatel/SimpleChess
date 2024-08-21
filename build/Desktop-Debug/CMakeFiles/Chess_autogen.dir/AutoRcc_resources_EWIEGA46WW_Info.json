@@ -1,0 +1,37 @@
+{
+	"BUILD_DIR" : "C:/TUM/2nd Sem/C++/Chess/build/Desktop-Debug/Chess_autogen",
+	"CMAKE_BINARY_DIR" : "C:/TUM/2nd Sem/C++/Chess/build/Desktop-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/TUM/2nd Sem/C++/Chess/build/Desktop-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/TUM/2nd Sem/C++/Chess",
+	"CMAKE_SOURCE_DIR" : "C:/TUM/2nd Sem/C++/Chess",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "C:/TUM/2nd Sem/C++/Chess/build/Desktop-Debug/Chess_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/TUM/2nd Sem/C++/Chess/images/black_pawn.png",
+		"C:/TUM/2nd Sem/C++/Chess/images/black_bishop.png",
+		"C:/TUM/2nd Sem/C++/Chess/images/white_bishop.png",
+		"C:/TUM/2nd Sem/C++/Chess/images/chessboard.png",
+		"C:/TUM/2nd Sem/C++/Chess/images/white_pawn.png",
+		"C:/TUM/2nd Sem/C++/Chess/images/black_rook.png",
+		"C:/TUM/2nd Sem/C++/Chess/images/black_knight.png",
+		"C:/TUM/2nd Sem/C++/Chess/images/black_king.png",
+		"C:/TUM/2nd Sem/C++/Chess/images/white_rook.png",
+		"C:/TUM/2nd Sem/C++/Chess/images/white_knight.png",
+		"C:/TUM/2nd Sem/C++/Chess/images/black_queen.png",
+		"C:/TUM/2nd Sem/C++/Chess/images/white_king.png",
+		"C:/TUM/2nd Sem/C++/Chess/images/white_queen.png"
+	],
+	"LOCK_FILE" : "C:/TUM/2nd Sem/C++/Chess/build/Desktop-Debug/CMakeFiles/Chess_autogen.dir/AutoRcc_resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "C:/Users/supra/anaconda3/Library/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/TUM/2nd Sem/C++/Chess/build/Desktop-Debug/CMakeFiles/Chess_autogen.dir/AutoRcc_resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/TUM/2nd Sem/C++/Chess/resources.qrc",
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}

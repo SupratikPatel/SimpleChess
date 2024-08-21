@@ -1,0 +1,22 @@
+# ninja log v5
+6	715	7457158146451223	Chess_autogen/timestamp	d1ec8e30d0f88223
+6	715	7457158146451223	Chess_autogen/mocs_compilation.cpp	d1ec8e30d0f88223
+6	715	7457158146451223	C:/TUM/2nd Sem/C++/Chess/cmake-build-debug/Chess_autogen/timestamp	d1ec8e30d0f88223
+6	715	7457158146451223	C:/TUM/2nd Sem/C++/Chess/cmake-build-debug/Chess_autogen/mocs_compilation.cpp	d1ec8e30d0f88223
+716	822	7457158148267262	Chess_autogen/EWIEGA46WW/qrc_resources.cpp	7278c715a9d318e4
+716	822	7457158148267262	C:/TUM/2nd Sem/C++/Chess/cmake-build-debug/Chess_autogen/EWIEGA46WW/qrc_resources.cpp	7278c715a9d318e4
+925	3231	7457158172255117	CMakeFiles/Chess.dir/button.cpp.obj	24a552fa4966ec77
+838	3283	7457158172865222	CMakeFiles/Chess.dir/main.cpp.obj	f7caa06e8688765e
+859	3361	7457158173360489	CMakeFiles/Chess.dir/mainwindow.cpp.obj	67c85026c9017e29
+880	3610	7457158173940556	CMakeFiles/Chess.dir/pieces.cpp.obj	5e8de66020097807
+822	3612	7457158174405744	CMakeFiles/Chess.dir/Chess_autogen/mocs_compilation.cpp.obj	6fe0179b1ca1b788
+1006	3612	7457158174375755	CMakeFiles/Chess.dir/knight.cpp.obj	d1d294c3403b1f7f
+947	3613	7457158174285755	CMakeFiles/Chess.dir/board.cpp.obj	d78e638df9884555
+3236	3614	7457158176057306	CMakeFiles/Chess.dir/Chess_autogen/EWIEGA46WW/qrc_resources.cpp.obj	b45524e4cf3e35d8
+1054	3724	7457158177310666	CMakeFiles/Chess.dir/rook.cpp.obj	6a044ad4f829b7d5
+1066	3729	7457158177373944	CMakeFiles/Chess.dir/bishop.cpp.obj	364a1228181722b7
+1042	3745	7457158177536851	CMakeFiles/Chess.dir/queen.cpp.obj	b5844cf74e49ed40
+1023	3747	7457158177556812	CMakeFiles/Chess.dir/pawn.cpp.obj	3b27a62f4d923a4
+969	3752	7457158177606817	CMakeFiles/Chess.dir/box.cpp.obj	3db53c3e60ecba8e
+987	3759	7457158177686827	CMakeFiles/Chess.dir/king.cpp.obj	6fde46677e7fc881
+902	3769	7457158177776841	CMakeFiles/Chess.dir/game.cpp.obj	7f92b5ef44c76ce9

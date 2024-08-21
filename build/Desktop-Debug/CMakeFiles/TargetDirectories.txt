@@ -1,0 +1,8 @@
+C:/TUM/2nd Sem/C++/Chess/build/Desktop-Debug/CMakeFiles/Chess.dir
+C:/TUM/2nd Sem/C++/Chess/build/Desktop-Debug/CMakeFiles/edit_cache.dir
+C:/TUM/2nd Sem/C++/Chess/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
+C:/TUM/2nd Sem/C++/Chess/build/Desktop-Debug/CMakeFiles/list_install_components.dir
+C:/TUM/2nd Sem/C++/Chess/build/Desktop-Debug/CMakeFiles/install.dir
+C:/TUM/2nd Sem/C++/Chess/build/Desktop-Debug/CMakeFiles/install/local.dir
+C:/TUM/2nd Sem/C++/Chess/build/Desktop-Debug/CMakeFiles/Chess_autogen_timestamp_deps.dir
+C:/TUM/2nd Sem/C++/Chess/build/Desktop-Debug/CMakeFiles/Chess_autogen.dir
